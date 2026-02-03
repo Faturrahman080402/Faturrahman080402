@@ -1,11 +1,19 @@
 # Hey! Nice to see you.
 
-I'm **Fatur Rahman**, 
+I'm **Fatur Rahman**
 
-faturrahman3384@gmail.com
+ faturrahman3384@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/fatur-rahman-6711b4287  
-GitHub: https://github.com/Faturrahman080402
+## Socials
+- LinkedIn: https://www.linkedin.com/in/fatur-rahman-6711b4287
+- GitHub: https://github.com/Faturrahman080402
+- Instagram: https://www.instagram.com/ftrachman14/
+
+---
+
+## Now Playing
+
+![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=1db954&bar_color_cover=false)
 
 ---
 
@@ -26,5 +34,3 @@ GitHub: https://github.com/Faturrahman080402
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-
