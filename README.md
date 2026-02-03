@@ -2,7 +2,7 @@
 
 I'm **Fatur Rahman**, 
 
-?? 0882-6144-2642 | ?? faturrahman3384@gmail.com
+faturrahman3384@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/fatur-rahman-6711b4287  
 GitHub: https://github.com/Faturrahman080402
